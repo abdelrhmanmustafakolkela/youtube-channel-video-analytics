@@ -1,0 +1,18 @@
+==================================================
+VIDEO DATA ANALYSIS SUMMARY REPORT
+==================================================
+
+Total videos: 28
+Total views: 3,222
+Total likes: 488
+Total comments: 66
+
+Average views per video: 115.07
+Average likes per video: 17.43
+Average comments per video: 2.36
+
+Max views: 1,611
+Max likes: 244
+
+Top video by views: الإجمالي
+Top video by likes: الإجمالي
